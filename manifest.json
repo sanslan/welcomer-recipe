@@ -1,0 +1,18 @@
+{
+    "manifests": {
+        "sanslan/welcomer": {
+            "manifest": {
+                "bundles": {
+                    "Sanslan\\Welcomer\\WelcomerBundle": [
+                        "all"
+                    ]
+                },
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%"
+                },
+                "aliases": ["sn-welcomer"]
+            },
+            "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff00"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "recipes": {
+        "sanslan/welcomer": [
+            "dev-main"
+        ]
+    },
+    "branch": "main",
+    "is_contrib": false,
+    "_links": {
+        "repository": "git@github.com:sanslan/welcomer.git"
+    }
+}
